@@ -1,0 +1,2 @@
+# AndroidApplicationFundamentals_Assignment3
+Running the android application in Genymotion
